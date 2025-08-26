@@ -4,7 +4,7 @@ heroku3
 psycopg2-binary
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 python-dotenv
-Pyromod==3.1.6
+Pyromod==1.6
 speedtest-cli
 sqlalchemy==2.0.43
 TgCrypto
